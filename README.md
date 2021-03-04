@@ -31,5 +31,9 @@ Follow these steps to deploy the application in your machine.
 
 
 Login credentials for Admin
+
+
 username : admin@gmail.com
+
+
 password: admin
